@@ -27,3 +27,4 @@ Start the development server:
 command:=>  npm run dev
 
 Open your browser and visit:
+ http://localhost:5174/
