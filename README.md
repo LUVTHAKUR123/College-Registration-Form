@@ -20,7 +20,7 @@ Node.js(v14 or above recommended)
 npm (comes with Node.js)
 
 Install all dependencies: 
-(1)using npm
+(1)using npm:
 npm install 
 
 Start the development server: 
