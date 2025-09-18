@@ -14,24 +14,35 @@ SweetAlert2 for confirmation dialogs.
 
 
  ## Tech Stack & Versions
+  Node.js :
 
-Node.js → v18.x or higher
+    "Node.js →" v24.5.0",
 
-    "react": "^19.1.1",
+  React :
+ 
+    "react": "^19.1.1"
 
-React DOM → ^18.2.0
+ React-DOM :   
 
-Material-UI (MUI) → ^5.15.14
+     React DOM →"^19.1.7",
+ Materail UI (MUI):     
+  
+    "@mui/material": "^7.3.2",
+ React Hook Form :   
 
-React Hook Form → ^7.50.0
+    "react-hook-form": "^7.62.0",
 
 React Context API → (built-in with React 18)
+React Toastify :
+    
+     "react-toastify": "^11.0.5",
+Sweet Alert :
 
-React Toastify → ^9.1.3
+    "sweetalert2": "^11.23.0",
 
-SweetAlert2 → ^11.10.0
-
-Vite → ^5.0.0
+Vite :
+       
+       "vite": "^7.1.2"
 
 ## Installation & Setup
 
