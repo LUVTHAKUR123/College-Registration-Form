@@ -24,15 +24,15 @@ SweetAlert2 for confirmation dialogs.
 
  React-DOM :   
 
-     React DOM →"^19.1.7",
+    React DOM →"^19.1.7",
 
   uuid :
          
-          "uuid": "^13.0.0",
+    "uuid": "^13.0.0",
 
   Yup :
            
-           "yup": "^1.7.0"
+    "yup": "^1.7.0"
      
  Materail UI (MUI):     
   
@@ -45,14 +45,14 @@ React Context API → (built-in with React 19):
 
 React Toastify :
     
-     "react-toastify": "^11.0.5",
+    "react-toastify": "^11.0.5",
 Sweet Alert :
 
     "sweetalert2": "^11.23.0",
 
 Vite :
        
-       "vite": "^7.1.2"
+    "vite": "^7.1.2"
 
 ## Installation & Setup
 
