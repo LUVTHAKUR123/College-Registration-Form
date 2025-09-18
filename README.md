@@ -14,10 +14,10 @@ SweetAlert2 for confirmation dialogs.
 
 ## Screenshots :
 ### Home Page  
-![Home Page](./screenshots/home.png) 
+![Home Page](./screenshots/home.png)  
 
 ### Registration Form  
-![Registration Form](./screenshots/form.png) 
+![Registration Form](./screenshots/form.png)  
 
  ## Tech Stack & Versions
 - [Node.js](https://nodejs.org/) : v24.5.0
