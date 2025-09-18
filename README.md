@@ -13,8 +13,13 @@ React Toastify for real-time notifications (e.g., "Student added", "Entry delete
 SweetAlert2 for confirmation dialogs.
 
 ## Screenshots :
-![Home Page](./screenshots/home.png)
-![Registration Form](./screenshots/form.png)
+
+### Home Page  
+![Home Page](./src/assets/screenshots/home.png)  
+
+### Registration Form  
+![Registration Form](./src/assets/screenshots/form.png)  
+
 
 
  ## Tech Stack & Versions
