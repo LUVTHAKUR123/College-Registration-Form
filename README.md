@@ -60,7 +60,7 @@ Make sure you have Node.js v14 or above installed.
 
 Clone the repository: 
 
-         https://github.com/LUVTHAKUR123/College-Registration-Form.git
+    https://github.com/LUVTHAKUR123/College-Registration-Form.git
 
 
 
