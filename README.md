@@ -1,12 +1,53 @@
-# React + Vite
+## College Registration Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a College Registration Form built with React.js and Vite, featuring full CRUD functionality.
+It allows users to register students, manage records, and perform create, read, update, and delete operations easily.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Student registration using a form with validation (React Hook Form).
+Dynamic Material-UI (MUI) Table to display student records.
+Edit/Delete students directly from the table.
+React Context API for global state management.
+React Toastify for real-time notifications (e.g., "Student added", "Entry deleted").
+SweetAlert2 for confirmation dialogs.
 
-## Expanding the ESLint configuration
+## Screenshots :
+### Home Page  
+![Home Page](./screenshots/home.png) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Registration Form  
+![Registration Form](./screenshots/form.png) 
+
+ ## Tech Stack & Versions
+- [Node.js](https://nodejs.org/) : v24.5.0
+- [React](https://reactjs.org/) :"19.1.7" 
+- [Material-UI (MUI)](https://mui.com/) :"^7.3.2"
+- [UUID](https://www.npmjs.com/package/uuid)  :"^13.0.0",
+- [Yup](https://www.npmjs.com/package/yup) :"^1.7.0"
+- [SweetAlert2](https://sweetalert2.github.io/)  :"^11.23.0",
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction) :"^11.0.5",
+- [React Context API](https://react.dev/learn/passing-data-deeply-with-context)  
+- [React Hook Form](https://react-hook-form.com/)  :"^7.62.0",
+- [Vite](https://vitejs.dev/)  :"^7.1.2"
+
+
+## Installation & Setup
+
+Make sure you have Node.js v24  or above installed.
+
+Clone the repository: 
+
+    https://github.com/LUVTHAKUR123/College-Registration-Form.git
+
+
+
+## Install and Start the Development server
+
+     cd College-Registration-Form
+     npm install
+     npm run dev
+
+##  Open your browser and visit:
+
+  http://localhost:5173/
