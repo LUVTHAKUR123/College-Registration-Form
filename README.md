@@ -16,7 +16,7 @@ SweetAlert2 for confirmation dialogs.
  ## Tech Stack & Versions
   Node.js :
 
-    "Node.js →" v24.5.0",
+    "Node.js: " v24.5.0",
 
   React :
  
@@ -24,7 +24,7 @@ SweetAlert2 for confirmation dialogs.
 
  React-DOM :   
 
-    React DOM →"^19.1.7",
+    React DOM : "^19.1.7",
 
   uuid :
          
@@ -56,7 +56,7 @@ Vite :
 
 ## Installation & Setup
 
-Make sure you have Node.js v14 or above installed.
+Make sure you have Node.js v24  or above installed.
 
 Clone the repository: 
 
@@ -72,4 +72,4 @@ Clone the repository:
 
 ##  Open your browser and visit:
 
-     http://localhost:5174/
+     http://localhost:5173/
