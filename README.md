@@ -25,6 +25,15 @@ SweetAlert2 for confirmation dialogs.
  React-DOM :   
 
      React DOM →"^19.1.7",
+
+  uuid :
+         
+          "uuid": "^13.0.0",
+
+  Yup :
+           
+           "yup": "^1.7.0"
+     
  Materail UI (MUI):     
   
     "@mui/material": "^7.3.2",
