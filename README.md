@@ -12,50 +12,21 @@ React Context API for global state management.
 React Toastify for real-time notifications (e.g., "Student added", "Entry deleted").
 SweetAlert2 for confirmation dialogs.
 
+## Screenshots :
+
 
  ## Tech Stack & Versions
+- [Node.js](https://nodejs.org/) : v24.5.0
+- [React](https://reactjs.org/) :"19.1.7" 
+- [Material-UI (MUI)](https://mui.com/) :"^7.3.2"
+- [UUID](https://www.npmjs.com/package/uuid)  :"^13.0.0",
+- [Yup](https://www.npmjs.com/package/yup) :"^1.7.0"
+- [SweetAlert2](https://sweetalert2.github.io/)  :"^11.23.0",
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction) :"^11.0.5",
+- [React Context API](https://react.dev/learn/passing-data-deeply-with-context)  
+- [React Hook Form](https://react-hook-form.com/)  :"^7.62.0",
+- [Vite](https://vitejs.dev/)  :"^7.1.2"
 
-  Node.js: " v24.5.0",- [Node.js](https://nodejs.org/)  
-
-  React: "19.1.7"- [React](https://reactjs.org/)  
-- [Material-UI (MUI)](https://mui.com/)  
-- [UUID](https://www.npmjs.com/package/uuid)  
-- [Yup](https://www.npmjs.com/package/yup)  
-- [SweetAlert2](https://sweetalert2.github.io/)  
-- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)  
-
-
- React-DOM :   
-
-    React DOM : "^19.1.7",
-
-  uuid :
-         
-    "uuid": "^13.0.0",
-
-  Yup :
-           
-    "yup": "^1.7.0"
-     
- Materail UI (MUI):     
-  
-    "@mui/material": "^7.3.2",
- React Hook Form :   
-
-    "react-hook-form": "^7.62.0",
-
-React Context API → (built-in with React 19):
-
-React Toastify :
-    
-    "react-toastify": "^11.0.5",
-Sweet Alert :
-
-    "sweetalert2": "^11.23.0",
-
-Vite :
-       
-    "vite": "^7.1.2"
 
 ## Installation & Setup
 
