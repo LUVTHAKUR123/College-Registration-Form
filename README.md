@@ -29,11 +29,10 @@ Make sure you have Node.js v14 or above installed.
 Clone the repository: 
 
 git clone https://github.com/YOUR_USERNAME/College-Registration-Form.git
-cd College-Registration-Form
 
-Install dependencies:
-npm install
-Start the development server:
-npm run dev
 Open your browser and visit:
 http://localhost:5174/
+cd College-Registration-Form
+```bash
+npm install
+npm run dev
