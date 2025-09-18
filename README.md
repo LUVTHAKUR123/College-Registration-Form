@@ -72,4 +72,4 @@ Clone the repository:
 
 ##  Open your browser and visit:
 
-     http://localhost:5173/
+  http://localhost:5173/
