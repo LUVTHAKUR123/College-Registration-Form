@@ -26,8 +26,8 @@ SweetAlert2 (alerts/confirmations)
 
 Make sure you have Node.js v14 or above installed.
 
-Clone the repository:
-```bash
+Clone the repository: 
+
 git clone https://github.com/YOUR_USERNAME/College-Registration-Form.git
 cd College-Registration-Form
 
