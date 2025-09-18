@@ -82,7 +82,7 @@ import { defaultData } from "../DeafultData";
 export const StudentContext = createContext();
 
 const StudentProvider = ({ children }) => {
-  const [data, setData] = useState(defaultData); 
+  const [data, setData] =React.useState(defaultData); 
 
   return (
     <StudentContext.Provider value={{ data, setData }}>
