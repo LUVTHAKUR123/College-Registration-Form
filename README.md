@@ -14,9 +14,9 @@ SweetAlert2 for confirmation dialogs.
 
 
  ## Tech Stack & Versions
-  Node.js :
 
-    "Node.js: " v24.5.0",
+  Node.js: " v24.5.0",
+
 
   React :
  
