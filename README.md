@@ -32,7 +32,8 @@ SweetAlert2 for confirmation dialogs.
 
     "react-hook-form": "^7.62.0",
 
-React Context API → (built-in with React 18)
+React Context API → (built-in with React 18):
+
 React Toastify :
     
      "react-toastify": "^11.0.5",
