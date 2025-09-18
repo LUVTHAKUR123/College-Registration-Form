@@ -11,16 +11,27 @@ Edit/Delete students directly from the table.
 React Context API for global state management.
 React Toastify for real-time notifications (e.g., "Student added", "Entry deleted").
 SweetAlert2 for confirmation dialogs.
-Clean, responsive UI with efficient state handling.
 
-## Tech Stack
 
-React.js (with Vite)
-React Hook Form (form handling + validation)
-Material-UI (MUI) (table + UI components)
-React Context API (state management)
-React Toastify (notifications)
-SweetAlert2 (alerts/confirmations)
+ ## Tech Stack & Versions
+
+Node.js → v18.x or higher
+
+    "react": "^19.1.1",
+
+React DOM → ^18.2.0
+
+Material-UI (MUI) → ^5.15.14
+
+React Hook Form → ^7.50.0
+
+React Context API → (built-in with React 18)
+
+React Toastify → ^9.1.3
+
+SweetAlert2 → ^11.10.0
+
+Vite → ^5.0.0
 
 ## Installation & Setup
 
