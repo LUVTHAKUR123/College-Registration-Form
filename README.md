@@ -32,9 +32,10 @@ git clone https://github.com/YOUR_USERNAME/College-Registration-Form.git
 
 Open your browser and visit:
 http://localhost:5174/
-cd College-Registration-Form
+
 
 ## Install and Start the Development server
 ```bash
+cd College-Registration-Form
 npm install
 npm run dev
